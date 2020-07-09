@@ -5,7 +5,7 @@
   <samp>
    Hello GitHub 👋,</br></br> I'm Johannes. A developer from Bavaria, Germany.  <br>
     Working on the <a href="https://support-pp.de">"Support++"</a> project.
-     <br><br>Send me an <a href="mailto:johannes@waigel.me">Email</a>
+     <br><br>Send me an <a href="mailto:johannes@waigel.me">email</a>
   </samp>
 </p>
 <!--
