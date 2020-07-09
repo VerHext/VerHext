@@ -1,13 +1,24 @@
+```
+$ ssh johannes@waigel.me
+Welcome to Ubuntu 20.04 LTS
 
+$ ls github_projects
+support-pp.js    Avatar-Api.go    discord-bot.go         
+Makefile         rct-sun.ts       private.md  
 
-<p align="center">
+$ cat /etc/timezone
+Europe/Bavaria
 
-  <samp>
-   Hello GitHub 👋,</br></br> I'm Johannes. A developer from Bavaria, Germany.  <br>
-    Working on the <a href="https://support-pp.de">"Support++"</a> project.
-     <br><br>Send me an <a href="mailto:johannes@waigel.me">email</a>
-  </samp>
-</p>
+$ cat /etc/profile
+GITHUB=VerHext
+TWITTER=VerHexter
+EMAIL=johannes@waigel.me
+DISCORD=VerHext#3537
+
+$ exit
+logout
+```
+
 <!--
 **VerHext/VerHext** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
