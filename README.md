@@ -1,5 +1,13 @@
-### Hi there 👋
 
+
+<p align="center">
+
+  <samp>
+   Hello GitHub 👋,</br></br> I'm Johannes. A developer from Bavaria, Germany.  <br>
+    Working on the <a href="https://support-pp.de">"Support++"</a> project.
+     <br><br>Send me an <a href="mailto:johannes@waigel.me">Email</a>
+  </samp>
+</p>
 <!--
 **VerHext/VerHext** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
