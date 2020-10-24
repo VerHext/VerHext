@@ -14,9 +14,6 @@ GITHUB=VerHext
 TWITTER=VerHexter
 EMAIL=johannes@waigel.me
 DISCORD=VerHext#3537
-
-$ exit
-logout
 ```
 
 <!--
