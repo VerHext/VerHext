@@ -6,9 +6,6 @@ $ ls github_projects
 support-pp.js    Avatar-Api.go    discord-bot.go         
 Makefile         rct-sun.ts       private.md  
 
-$ cat /etc/timezone
-Europe/Bavaria
-
 $ cat /etc/profile
 GITHUB=VerHext
 TWITTER=VerHexter
